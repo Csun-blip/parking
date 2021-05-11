@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%7Bsajilo-parking%7D/static/css/main.b7141878.chunk.css",
+    "main.js": "/%7Bsajilo-parking%7D/static/js/main.e1c57631.chunk.js",
+    "main.js.map": "/%7Bsajilo-parking%7D/static/js/main.e1c57631.chunk.js.map",
+    "runtime-main.js": "/%7Bsajilo-parking%7D/static/js/runtime-main.c67da9ad.js",
+    "runtime-main.js.map": "/%7Bsajilo-parking%7D/static/js/runtime-main.c67da9ad.js.map",
+    "static/js/2.1a4b68ff.chunk.js": "/%7Bsajilo-parking%7D/static/js/2.1a4b68ff.chunk.js",
+    "static/js/2.1a4b68ff.chunk.js.map": "/%7Bsajilo-parking%7D/static/js/2.1a4b68ff.chunk.js.map",
+    "index.html": "/%7Bsajilo-parking%7D/index.html",
+    "static/css/main.b7141878.chunk.css.map": "/%7Bsajilo-parking%7D/static/css/main.b7141878.chunk.css.map",
+    "static/js/2.1a4b68ff.chunk.js.LICENSE.txt": "/%7Bsajilo-parking%7D/static/js/2.1a4b68ff.chunk.js.LICENSE.txt",
+    "static/media/Newroad.445857b6.jpg": "/%7Bsajilo-parking%7D/static/media/Newroad.445857b6.jpg",
+    "static/media/bike.1ec8074d.jpg": "/%7Bsajilo-parking%7D/static/media/bike.1ec8074d.jpg",
+    "static/media/car.11e26133.jpg": "/%7Bsajilo-parking%7D/static/media/car.11e26133.jpg",
+    "static/media/kumaripati.32ecefb0.jpg": "/%7Bsajilo-parking%7D/static/media/kumaripati.32ecefb0.jpg",
+    "static/media/patan.a44919ad.jpg": "/%7Bsajilo-parking%7D/static/media/patan.a44919ad.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c67da9ad.js",
+    "static/js/2.1a4b68ff.chunk.js",
+    "static/css/main.b7141878.chunk.css",
+    "static/js/main.e1c57631.chunk.js"
+  ]
+}
