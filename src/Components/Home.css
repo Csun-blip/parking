@@ -1,0 +1,117 @@
+
+.search-box{
+    display: flex;
+    margin-top: 10px;
+    padding: 2px 4px;
+}
+/* 
+.search{
+    width: 295px;
+    border: 2px solid #404040;
+    border-right: none;
+    padding: 5px;
+    height: 25px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: #000;
+}
+
+.search-icon{
+    width: 30px;
+    background-color: #DB7093;
+}
+
+.search-icon :hover{
+    width: 10px;
+    background-color: #DB7093;
+} */
+
+.list{
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.box-parking{
+    display: flex;
+    flex-direction: column;
+   
+    
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .3);
+    text-align: center;
+    margin-bottom: 20px;
+    
+
+}
+.parking__img{
+    width: 280px;
+    
+    
+}
+
+.parking__img > img{
+    width: 100%;
+    object-fit: contain;
+    
+}
+
+.parking__details{
+    padding: 10px 0;
+}
+
+.parking__info{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.list-title{
+
+    font-size: 20px;
+    margin-bottom: 5px;
+ 
+}
+
+.list-subtitle{
+    font-size: 14px;
+
+}
+
+.list-price{
+    margin-bottom: 5px;
+}
+
+.btn-direction{
+    padding: 10px 15px;
+    background-color: #15e560;
+    outline: none;
+    border-radius: 2px;
+    border: none;
+    transition: all 0.2s ease-in;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+.btn-direction:hover{
+    background-color: #15e415;
+    
+}
+
+
+.list {
+    /* overflow: hidden; */
+    overflow-y: scroll;
+    height: 650px;
+}
+
+.map-style{
+    width: 80%;
+    height: 650px;
+    left: 200px;
+    overflow: hidden;
+}
+.column{
+    display: flex;
+    overflow-x: hidden; 
+}
